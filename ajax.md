@@ -1,0 +1,12 @@
+# [AJAX 教程](http://caibaojian.com/w3school/ajax/index.asp.htm)
+
+* [AJAX 简介](http://caibaojian.com/w3school/ajax/ajax_intro.asp.htm)
+* [AJAX 实例](http://caibaojian.com/w3school/ajax/ajax_example.asp.htm)
+* [XHR 创建对象](http://caibaojian.com/w3school/ajax/ajax_xmlhttprequest_create.asp.htm)
+* [XHR 请求](http://caibaojian.com/w3school/ajax/ajax_xmlhttprequest_send.asp.htm)
+* [XHR 响应](http://caibaojian.com/w3school/ajax/ajax_xmlhttprequest_response.asp.htm)
+* [XHR readyState](http://caibaojian.com/w3school/ajax/ajax_xmlhttprequest_onreadystatechange.asp.htm)
+* [AJAX ASP/PHP](http://caibaojian.com/w3school/ajax/ajax_asp_php.asp.htm)
+* [AJAX 数据库](http://caibaojian.com/w3school/ajax/ajax_database.asp.htm)
+* [AJAX XML 文件](http://caibaojian.com/w3school/ajax/ajax_xmlfile.asp.htm)
+* [AJAX 实例](http://caibaojian.com/w3school/example/ajax_examples.asp.htm)
