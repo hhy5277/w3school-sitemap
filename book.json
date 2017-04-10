@@ -1,0 +1,19 @@
+{ 
+	"structure" : {
+		"readme" : "README.md"
+	},
+	"title": "W3school教程",
+	"description": "最新的技术学习在线教程",
+	"links": {
+		"sidebar": {
+			"W3school教程": "http://caibaojian.com/w3school/"
+		},
+		"sharing": {
+			"google": null,
+			"facebook": null,
+			"twitter": null,
+			"weibo": null,
+			"all": null
+		}
+	}
+}

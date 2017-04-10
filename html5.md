@@ -79,7 +79,7 @@
 * [<html>](http://caibaojian.com/w3school/html5/tag_html.asp.htm)
 * [<i>](http://caibaojian.com/w3school/html5/tag_i.asp.htm)
 * [<iframe>](http://caibaojian.com/w3school/html5/tag_iframe.asp.htm)
-* [<img>](http://caibaojian.com/w3school/html5/tag_img.asp.htm)
+
 * [<input>](http://caibaojian.com/w3school/html5/tag_input.asp.htm)
 * [<ins>](http://caibaojian.com/w3school/html5/tag_ins.asp.htm)
 * [<keygen>](http://caibaojian.com/w3school/html5/tag_keygen.asp.htm)

@@ -1,7 +1,3 @@
-# w3school-sitemap
-
-http://caibaojian.com/w3school/
-
 
 * [地图](README.md)
 * [ajax教程](ajax.md)
